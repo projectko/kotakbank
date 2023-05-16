@@ -1,6 +1,4 @@
-enter your fixed depositeamount
-select tenure of fd
-fd rate
-nominie details
-
-
+apply for checkbook
+apply for credit card
+apply for current account
+apply for demat account
