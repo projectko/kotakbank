@@ -1,0 +1,14 @@
+1.username,password,login
+2.different features
+	balance
+	ministatement
+	fund transfer
+	last 5 tranctions
+	debit card managment
+	fixed depisits
+	credit card
+	applicaions
+	BBPL bills
+	help/cutomer care
+	LOGOUT
+	
